@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Soccer Score</string>
+    <string name="countdown">00:00</string>
+    <string name="current_half_text">Half</string>
+    <string name="current_half">1</string>
+    <string name="countdown_start_pause">Start</string>
+    <string name="countdown_reset">Reset</string>
+    <string name="home_team">Home</string>
+    <string name="away_team">Visitor</string>
+    <string name="score">0</string>
+    <string name="goal_button">Goal</string>
+    <string name="shot_button">Shot</string>
+    <string name="sog_button">Shot on goal</string>
+    <string name="stat_goal_text">Goals</string>
+    <string name="stat_total_shots_text">Total Shots</string>
+    <string name="stat_sot_text">On Target</string>
+    <string name="stat_goal">0</string>
+    <string name="stat_total_shots">0</string>
+    <string name="stat_total_sot">0</string>
+    <string name="score_reset">Reset</string>
+</resources>
